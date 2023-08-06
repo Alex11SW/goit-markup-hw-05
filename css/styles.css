@@ -601,7 +601,7 @@ img {
 }
 
 .subsc-div{
-
+margin-left: 80px;
 }
 
 .subsc-desc{
@@ -656,6 +656,7 @@ img {
 }
 .subsc-svg{
   margin-left: 16px;
+  
   
 }
 /*-------------------------------modal-window----------------------------------------*/
