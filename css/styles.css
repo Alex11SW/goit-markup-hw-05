@@ -600,6 +600,10 @@ img {
   fill: #ffffff;
 }
 
+.subsc-div{
+
+}
+
 .subsc-desc{
   margin-bottom: 16px;
   font-weight: 500;
@@ -798,12 +802,6 @@ position: relative;
   height: 16px;
   margin-bottom: 24px;
 }
-/*
-.modal-check:checked + .checkbox-span{
-
- border: none;
- fill:#F4F4FD; 
-}*/
 
 .label-checked-name {
   color: var(--lightslate, #8e8f99);
@@ -828,7 +826,6 @@ position: relative;
    align-items: center;
    justify-content: center; 
    fill: transparent;
-   
  
 }
 
@@ -837,6 +834,7 @@ position: relative;
   border: none;
   fill:#F4F4FD; 
 }
+
 
 .checkbox-link{
   color:var(--iris, #4d5ae5);
