@@ -743,11 +743,12 @@ position: relative;
   height: 16px;
   margin-bottom: 24px;
 }
+/*
 .modal-check:checked + .checkbox-span{
 
  border: none;
  fill:#F4F4FD; 
-}
+}*/
 
 .label-checked-name {
   display: flex;
@@ -773,8 +774,9 @@ position: relative;
    align-items: center;
    justify-content: center; 
    fill: transparent;
- 
-
+   background-color:#404bbf; 
+   border: none;
+   fill:#F4F4FD; 
    margin-right: 8px;
  
 }
