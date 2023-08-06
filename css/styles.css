@@ -762,7 +762,7 @@ position: relative;
 }
 
 .checkbox-span{
-  display: inline-flex;
+  display: flex;
   width: 16px;
   height: 16px;
   
